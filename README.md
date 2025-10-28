@@ -1,5 +1,7 @@
 Nama : Ramadhan Fakhtur Rakhman 
+
 NIM : H1D023010
+
 Shift Awal D - Shift Akhir E 
 
 
